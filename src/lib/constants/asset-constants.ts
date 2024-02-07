@@ -1,0 +1,1 @@
+export const testvalley_logo = '/logo.svg'
